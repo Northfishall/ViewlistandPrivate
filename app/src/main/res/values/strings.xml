@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sqliteCRUD</string>
+    <string name="tv_name">姓名：</string>
+    <string name="tv_phone">电话：</string>
+</resources>
